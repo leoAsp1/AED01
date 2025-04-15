@@ -1,0 +1,44 @@
+*** Iniciar o jupyter notebook no Prompt ***
+(base) C:\Users\Suporte>cd ..
+(base) C:\Users>cd Alunos
+(base) C:\Users\Alunos>cd Desktop
+(base) C:\Users\Alunos\Desktop>cd AED1
+(base) C:\Users\Alunos\Desktop\AED1>jupyter notebook
+-------------------------------------------------
+*** Comandos no Prompt ***
+
+cd [pasta]: Change Data (Muda de diretório)
+	- cd .. (Retorna para o diretório anterior)
+	- cd AED01
+
+md [pasta]: Make Data (Cria diretório)
+	- md aula07
+
+rd [pasta]: Remove Data (Remove diretório)
+	- rd aula06
+
+dir: Directory (Mostra os arquivos e pastas no diretório)
+	- dir
+
+while (condição): 
+
+git clone [link]: Copia o código fonte de um repositório
+	- git clone https://github.com/leoAsp1/AED01.git
+
+git add .: Adiciona os arquivos no repositório
+	- git add .
+
+git status: Mostra os status dos arquivos
+	- git status
+
+git commit -m "mensagem": Mostra uma mensagem
+	- git commit -m "atualização das aulas 5, 6, 7 e 8"
+
+git config --global user.email "example@email.com": Cadastra o email (tem que ser email do GitHub)
+	-  git config --global user.email "adolfo.josé@gmail.com"
+
+git config --global user.name "Nome": Cadastra o nome
+	-  git config --global user.name "Maria Carvalho"
+
+git push: Joga tudo pro repositório remoto (GitHub)
+	- git push
