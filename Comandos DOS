@@ -1,11 +1,11 @@
-*** Iniciar o jupyter notebook no Prompt ***
+# Iniciar o jupyter notebook no Prompt
 (base) C:\Users\Suporte>cd ..
 (base) C:\Users>cd Alunos
 (base) C:\Users\Alunos>cd Desktop
 (base) C:\Users\Alunos\Desktop>cd AED1
 (base) C:\Users\Alunos\Desktop\AED1>jupyter notebook
 -------------------------------------------------
-*** Comandos no Prompt ***
+# Comandos no Prompt
 
 cd [pasta]: Change Data (Muda de diretório)
 	- cd .. (Retorna para o diretório anterior)
